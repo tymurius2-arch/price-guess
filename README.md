@@ -16,4 +16,4 @@
 
 Чтобы добавить товар, допишите строку в `products.js`.
 
-Публикуется вместе со школьным порталом на GitHub Pages по адресу `/price-guess/`.
+Публикуется на GitHub Pages: <https://tymurius2-arch.github.io/price-guess/>.
